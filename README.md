@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rads059
-- 👀 I’m interested in Python, Data Analysis, Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Python, Django, Data Analysis, Data Science and Machine Learning
+- 🌱 I’m currently working on Django, Full Stack Development and some level of Data Analysis.
 - 💞️ I’m looking to collaborate on Data Scienece Projects
 
 
